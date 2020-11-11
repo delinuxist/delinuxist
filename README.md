@@ -3,4 +3,4 @@
 I'm Emmanuel Obeng Twene a Web Developer and Software Engineeer 
 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/delinuxist/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=delinuxist)](https://github.com/anuraghazra/github-readme-stats)
