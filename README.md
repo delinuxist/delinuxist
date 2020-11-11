@@ -2,13 +2,34 @@
 
 I'm Emmanuel Obeng Twene a Web Developer and Mobile Application Developer
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/delinuxist)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/emmanuel-obeng-twene-4b1638199?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BHZxV1jlaRTCf7DIeNSqdcw%3D%3D)  
+:mailbox: Reach me out!
+
+[![Linkedin Badge](https://img.shields.io/badge/-delinuxist-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](
+linkedin.com/in/emmanuel-obeng-twene-4b1638199)  [![Mail Badge](https://img.shields.io/badge/-delinuxist-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:delinuxist@gmail.com)
 
 
 
+**Languages I use**
+
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
+![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=CSS3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
+![MYSQL](https://img.shields.io/badge/-MYSQL-000000?style=flat&logo=MySQL)
+![Dart](https://img.shields.io/badge/-Dart-000000?style=flat&logo=Dart)
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=delinuxist&show_icons=true&count_private=true)  
+**Technologies I use**
+
+![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
+![jQuery](https://img.shields.io/badge/-jQuery-000000?style=flat&logo=jQuery&logoColor=0769AD)
+![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=FCC624)
+![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js&logoColor=339933)
+![Vue Js](https://img.shields.io/badge/-Vuejs-000000?style=flat&logo=V&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/-Flutter-000000?style=flat&logo=Flutter&logoColor=61DAFB)
+
+
+
+ 
 
 
 
