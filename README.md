@@ -5,7 +5,7 @@ I'm Emmanuel Obeng Twene a Web Developer and Mobile Application Developer
 :mailbox: Reach me out!
 
 [![Linkedin Badge](https://img.shields.io/badge/-delinuxist-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](
-linkedin.com/in/emmanuel-obeng-twene-4b1638199)  [![Mail Badge](https://img.shields.io/badge/-delinuxist-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:delinuxist@gmail.com)
+https://www.linkedin.com/in/emmanuel-obeng-twene-4b1638199)  [![Mail Badge](https://img.shields.io/badge/-delinuxist-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:delinuxist@gmail.com)
 
 
 
