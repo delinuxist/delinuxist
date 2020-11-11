@@ -21,11 +21,14 @@ linkedin.com/in/emmanuel-obeng-twene-4b1638199)  [![Mail Badge](https://img.shie
 **Technologies I use**
 
 ![Flutter](https://img.shields.io/badge/-Flutter-000000?style=flat&logo=Flutter&logoColor=61DAFB)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=bootstrap&logoColor=61DAFB)
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
 ![jQuery](https://img.shields.io/badge/-jQuery-000000?style=flat&logo=jQuery&logoColor=0769AD)
-![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=FCC624)
+![Linux](https://img.shields.io/badge/-Linux-000000?style=&logo=linux&logoColor=FCC624)
 ![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js&logoColor=339933)
-![Vue Js](https://img.shields.io/badge/-Vuejs-000000?style=flat&logo=V&logoColor=61DAFB)
+![Vue Js](https://img.shields.io/badge/-Vue.js-000000?style=flat&logo=V&logoColor=61DAFB)
+
+
 
 
 
