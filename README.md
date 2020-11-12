@@ -18,7 +18,7 @@ https://www.linkedin.com/in/emmanuel-obeng-twene-4b1638199)  [![Mail Badge](http
 ![Dart](https://img.shields.io/badge/-Dart-000000?style=flat&logo=Dart)
 
 
-**Technologies I use**
+**Frameworks I use**
 
 ![Flutter](https://img.shields.io/badge/-Flutter-000000?style=flat&logo=Flutter&logoColor=61DAFB)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=bootstrap&logoColor=61DAFB)
