@@ -11,8 +11,8 @@ https://www.linkedin.com/in/emmanuel-obeng-twene-4b1638199)  [![Mail Badge](http
 
 **Languages I use**
 
-![HTML5](https://img.shields.io/badge/-HTML5-eee?style=flat&logo=HTML5)
-![CSS3](https://img.shields.io/badge/-CSS3-eee?style=flat&logo=CSS3)
+![HTML5](https://img.shields.io/badge/-HTML5-3F4C6B?style=flat&logo=HTML5)
+![CSS3](https://img.shields.io/badge/-CSS3-3F4C6B?style=flat&logo=CSS3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-3F4C6B?style=flat&logo=javascript)
 ![MYSQL](https://img.shields.io/badge/-MYSQL-3F4C6B?style=flat&logo=MySQL)
 ![Dart](https://img.shields.io/badge/-Dart-3F4C6B?style=flat&logo=Dart)
@@ -20,13 +20,13 @@ https://www.linkedin.com/in/emmanuel-obeng-twene-4b1638199)  [![Mail Badge](http
 
 **Frameworks I use**
 
-![Flutter](https://img.shields.io/badge/-Flutter-000000?style=flat&logo=Flutter&logoColor=61DAFB)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=bootstrap&logoColor=61DAFB)
-![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
-![jQuery](https://img.shields.io/badge/-jQuery-000000?style=flat&logo=jQuery&logoColor=0769AD)
-![Linux](https://img.shields.io/badge/-Linux-000000?style=&logo=linux&logoColor=FCC624)
-![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js&logoColor=339933)
-![Vue Js](https://img.shields.io/badge/-Vue.js-000000?style=flat&logo=V&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/-Flutter-537895?style=flat&logo=Flutter&logoColor=61DAFB)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-537895?style=flat&logo=bootstrap&logoColor=61DAFB)
+![Git](https://img.shields.io/badge/-Git-537895?style=flat&logo=git&logoColor=F05032)
+![jQuery](https://img.shields.io/badge/-jQuery-537895?style=flat&logo=jQuery&logoColor=0769AD)
+![Linux](https://img.shields.io/badge/-Linux-537895?style=&logo=linux&logoColor=FCC624)
+![Node.js](https://img.shields.io/badge/-Node.js-537895?style=flat&logo=node.js&logoColor=339933)
+![Vue Js](https://img.shields.io/badge/-Vue.js-537895?style=flat&logo=V&logoColor=61DAFB)
 
 
 
