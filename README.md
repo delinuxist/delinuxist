@@ -25,7 +25,7 @@ https://www.linkedin.com/in/emmanuel-obeng-twene-4b1638199)  [![Mail Badge](http
 ![Git](https://img.shields.io/badge/-Git-537895?style=flat&logo=git&logoColor=F05032)
 ![jQuery](https://img.shields.io/badge/-jQuery-537895?style=flat&logo=jQuery&logoColor=0769AD)
 ![Linux](https://img.shields.io/badge/-Linux-537895?style=&logo=linux&logoColor=FCC624)
-![Node.js](https://img.shields.io/badge/-Node.js-537895?style=flat&logo=node.js&logoColor=339933)
+![Node.js](https://img.shields.io/badge/-Node.js-09203F?style=flat&logo=node.js&logoColor=339933)
 ![Vue Js](https://img.shields.io/badge/-Vue.js-537895?style=flat&logo=V&logoColor=61DAFB)
 
 
