@@ -11,11 +11,11 @@ https://www.linkedin.com/in/emmanuel-obeng-twene-4b1638199)  [![Mail Badge](http
 
 **Languages I use**
 
-![HTML5](https://img.shields.io/badge/-HTML5-3F4C6B?style=flat&logo=HTML5)
-![CSS3](https://img.shields.io/badge/-CSS3-3F4C6B?style=flat&logo=CSS3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-3F4C6B?style=flat&logo=javascript)
-![MYSQL](https://img.shields.io/badge/-MYSQL-3F4C6B?style=flat&logo=MySQL)
-![Dart](https://img.shields.io/badge/-Dart-3F4C6B?style=flat&logo=Dart)
+![HTML5](https://img.shields.io/badge/-HTML5-09203F?style=flat&logo=HTML5)
+![CSS3](https://img.shields.io/badge/-CSS3-09203F?style=flat&logo=CSS3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-09203F?style=flat&logo=javascript)
+![MYSQL](https://img.shields.io/badge/-MYSQL-09203F?style=flat&logo=MySQL)
+![Dart](https://img.shields.io/badge/-Dart-09203F?style=flat&logo=Dart)
 
 
 **Frameworks I use**
