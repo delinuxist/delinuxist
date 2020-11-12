@@ -20,7 +20,7 @@ https://www.linkedin.com/in/emmanuel-obeng-twene-4b1638199)  [![Mail Badge](http
 
 **Frameworks I use**
 
-![Flutter](https://img.shields.io/badge/-Flutter-537895?style=flat&logo=Flutter&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/-Flutter-09203F?style=flat&logo=Flutter&logoColor=61DAFB)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-537895?style=flat&logo=bootstrap&logoColor=61DAFB)
 ![Git](https://img.shields.io/badge/-Git-537895?style=flat&logo=git&logoColor=F05032)
 ![jQuery](https://img.shields.io/badge/-jQuery-537895?style=flat&logo=jQuery&logoColor=0769AD)
