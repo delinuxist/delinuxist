@@ -22,10 +22,10 @@ https://www.linkedin.com/in/emmanuel-obeng-twene-4b1638199)  [![Mail Badge](http
 
 ![Flutter](https://img.shields.io/badge/-Flutter-09203F?style=flat&logo=Flutter&logoColor=61DAFB)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-09203F?style=flat&logo=bootstrap&logoColor=61DAFB)
-![jQuery](https://img.shields.io/badge/-jQuery-09203F?style=flat&logo=jQuery&logoColor=0769AD)
+<!-- ![jQuery](https://img.shields.io/badge/-jQuery-09203F?style=flat&logo=jQuery&logoColor=0769AD) -->
 ![Node.js](https://img.shields.io/badge/-Node.js-09203F?style=flat&logo=node.js&logoColor=339933)
-![Vue Js](https://img.shields.io/badge/-Vue.js-09203F?style=flat&logo=V&logoColor=61DAFB)
-
+<!-- ![Vue Js](https://img.shields.io/badge/-Vue.js-09203F?style=flat&logo=V&logoColor=61DAFB)
+ -->
 
 
 
