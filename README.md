@@ -9,20 +9,26 @@ https://www.linkedin.com/in/emmanuel-obeng-twene-4b1638199)  [![Mail Badge](http
 
 
 
-**Languages I use**
+**Languages**
 
 ![HTML5](https://img.shields.io/badge/-HTML5-09203F?style=flat&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-09203F?style=flat&logo=CSS3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-09203F?style=flat&logo=javascript)
-![MYSQL](https://img.shields.io/badge/-MYSQL-09203F?style=flat&logo=MySQL)
 ![Dart](https://img.shields.io/badge/-Dart-09203F?style=flat&logo=Dart)
 
 
-**Frameworks I use**
+**Backend**
+
+![MYSQL](https://img.shields.io/badge/-MYSQL-09203F?style=flat&logo=MySQL)
+![Node.js](https://img.shields.io/badge/-Node.js-09203F?style=flat&logo=node.js&logoColor=339933)
+![Express.js](https://img.shields.io/badge/-Express.js-09203F?style=flat&logo=EXPRESS)
+
+
+
+**Frameworks**
 
 ![Flutter](https://img.shields.io/badge/-Flutter-09203F?style=flat&logo=Flutter&logoColor=61DAFB)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-09203F?style=flat&logo=bootstrap&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/-Node.js-09203F?style=flat&logo=node.js&logoColor=339933)
 <!-- ![jQuery](https://img.shields.io/badge/-jQuery-09203F?style=flat&logo=jQuery&logoColor=0769AD) -->
 
 <!-- ![Vue Js](https://img.shields.io/badge/-Vue.js-09203F?style=flat&logo=V&logoColor=61DAFB)
