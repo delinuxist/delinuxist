@@ -2,10 +2,10 @@
 
 I'm Emmanuel Obeng Twene a Web Developer and Mobile Application Developer
 
-:mailbox: Reach me out!
+:mailbox: Get In Contact!
 
 [![Linkedin Badge](https://img.shields.io/badge/-delinuxist-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](
-https://www.linkedin.com/in/emmanuel-obeng-twene-4b1638199)  [![Mail Badge](https://img.shields.io/badge/-delinuxist-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:delinuxist@gmail.com)
+https://www.linkedin.com/in/emmanuel-obeng-twene-4b1638199)  [![Mail Badge](https://img.shields.io/badge/-delinuxist-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:obeng.dev@gmail.com)
 
 
 
@@ -19,7 +19,6 @@ https://www.linkedin.com/in/emmanuel-obeng-twene-4b1638199)  [![Mail Badge](http
 
 
 **Frameworks I use**
-
 ![Flutter](https://img.shields.io/badge/-Flutter-09203F?style=flat&logo=Flutter&logoColor=61DAFB)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-09203F?style=flat&logo=bootstrap&logoColor=61DAFB)
 <!-- ![jQuery](https://img.shields.io/badge/-jQuery-09203F?style=flat&logo=jQuery&logoColor=0769AD) -->
