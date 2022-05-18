@@ -18,23 +18,26 @@ https://www.linkedin.com/in/emmanuel-obeng-twene-4b1638199)  [![Mail Badge](http
 
 **Backend**
 
-![MYSQL](https://img.shields.io/badge/-MYSQL-09203F?style=flat&logo=MySQL)
 ![Node.js](https://img.shields.io/badge/-Node.js-09203F?style=flat&logo=node.js&logoColor=339933)
 ![Express.js](https://img.shields.io/badge/-Express.js-09203F?style=flat&logo=EXPRESS)
+![Grapql](https://img.shields.io/badge/-Graphql-09203F?style=flat&logo=graphql&logoColor=FF1493)
 
 
 
 **Frameworks**
 
 ![Flutter](https://img.shields.io/badge/-Flutter-09203F?style=flat&logo=Flutter&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-09203F?style=flat&logo=tailwindcss)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-09203F?style=flat&logo=bootstrap&logoColor=61DAFB)
 <!-- ![jQuery](https://img.shields.io/badge/-jQuery-09203F?style=flat&logo=jQuery&logoColor=0769AD) -->
 
 <!-- ![Vue Js](https://img.shields.io/badge/-Vue.js-09203F?style=flat&logo=V&logoColor=61DAFB)
  -->
+ 
+ **Database**
 
-
-
+![MYSQL](https://img.shields.io/badge/-MYSQL-09203F?style=flat&logo=MySQL)
+![MongoDB](https://img.shields.io/badge/-MongoDB-09203F?style=flat&logo=mongodb)
 
 
  
