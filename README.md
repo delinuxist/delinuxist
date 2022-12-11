@@ -20,7 +20,6 @@ https://www.linkedin.com/in/emmanuel-obeng-twene-4b1638199)  [![Mail Badge](http
 **Frameworks**
 
 ![Nextjs](https://img.shields.io/badge/-Nextjs-09203F?style=flat&logo=next.js&logoColor=white)
-<!-- ![Flutter](https://img.shields.io/badge/-Flutter-09203F?style=flat&logo=Flutter&logoColor=61DAFB) -->
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-09203F?style=flat&logo=tailwindcss)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-09203F?style=flat&logo=bootstrap&logoColor=61DAFB)
 
@@ -45,6 +44,7 @@ https://www.linkedin.com/in/emmanuel-obeng-twene-4b1638199)  [![Mail Badge](http
 ![Express.js](https://img.shields.io/badge/-Express.js-09203F?style=flat&logo=EXPRESS)
 ![Grapql](https://img.shields.io/badge/-Graphql-09203F?style=flat&logo=graphql&logoColor=FF1493)
 <!-- ![Node.js](https://img.shields.io/badge/-Node.js-09203F?style=flat&logo=node.js&logoColor=339933) -->
+<!-- ![Flutter](https://img.shields.io/badge/-Flutter-09203F?style=flat&logo=Flutter&logoColor=61DAFB) -->
 
 
 
